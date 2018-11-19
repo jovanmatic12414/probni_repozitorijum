@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace projekat_1
 {
-    public class Class1
+    public class Student
     {
+        //Ovo je prvi komentar.
     }
 }
